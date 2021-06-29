@@ -12,7 +12,7 @@ May 11, 2021
 
 ## Overview
 
-The goal of this project is to extend the tools of exploratory text analysis to Ovid's *Metamorphoses*. Specifically, clustering is employed on the 15 books of *Metamorphoses* to potentially identify the latent chronology nature of the poem. Then, topic modeling is applied in order to better understand the composition of these derived clusters. This project is fully articulated in this paper.
+The goal of this project is to extend the tools of exploratory text analysis to Ovid's *Metamorphoses*. Specifically, clustering is employed on the 15 books of *Metamorphoses* to potentially identify the latent chronology nature of the poem. Then, topic modeling is applied in order to better understand the composition of these derived clusters. This project is fully articulated in this [paper](./paper.pdf).
 
 ## Notebooks
 
