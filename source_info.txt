@@ -1,0 +1,6 @@
+Provenance: Project Gutenberg
+ - URL: https://www.gutenberg.org/files/21765/21765-0.txt
+ - URL: https://www.gutenberg.org/files/26073/26073-0.txt
+Location: "./data_in"
+Description: The Metamorphoses of Ovid, by Publius Ovidius Naso
+Format: plaintext (.txt)
